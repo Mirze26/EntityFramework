@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EntityFramework",
+    "\\EntityFramework\\Data",
+    "\\EntityFramework\\Models",
+    "\\EntityFramework\\Views",
+    "\\EntityFramework\\Views\\Shared"
+  ],
+  "SelectedNode": "\\EntityFramework\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
